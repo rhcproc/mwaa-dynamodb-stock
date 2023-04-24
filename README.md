@@ -4,6 +4,9 @@ This is a sample project for using Amazon DynamoDB with Amazon MWAA.
 
 This project is based on the following repository.
 
+- airflow: v2.4.3
+- python: v3.10
+
 ### make .env file
 
 ```
